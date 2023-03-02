@@ -1,0 +1,18 @@
+body{
+    min-width: 300px;
+    background-color: darksalmon;
+}
+.center{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+button{
+    background-color:rgb(20, 186, 42);
+    margin: 0;
+    padding:0;
+}
